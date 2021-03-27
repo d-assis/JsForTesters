@@ -1,0 +1,27 @@
+{
+  "name": "JsForTesters",
+  "version": "1.0.0",
+  "description": "respositório de experimentação de frameworks e libs voltadas para teste com Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-assis/JsForTesters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-assis/JsForTesters/issues"
+  },
+  "homepage": "https://github.com/d-assis/JsForTesters#readme",
+  "dependencies": {
+    "mocha": "^8.3.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+}
